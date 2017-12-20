@@ -1,0 +1,13 @@
+﻿@model IEnumerable<ExamenGestionCompte.Web.Models.ClientModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Add Client", "CreateClient")
+</p>
+
+@Html.Partial("ListClients", Model)

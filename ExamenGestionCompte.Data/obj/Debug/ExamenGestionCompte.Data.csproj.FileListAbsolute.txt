@@ -1,0 +1,14 @@
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\bin\Debug\ExamenGestionCompte.Data.dll.config
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\bin\Debug\ExamenGestionCompte.Data.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\bin\Debug\ExamenGestionCompte.Data.pdb
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\bin\Debug\EntityFramework.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\bin\Debug\EntityFramework.SqlServer.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\bin\Debug\EntityFramework.xml
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\bin\Debug\EntityFramework.SqlServer.xml
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\obj\Debug\ExamenGestionCompte.Data.csprojResolveAssemblyReference.cache
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\obj\Debug\ExamenGestionCompte.Data.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\obj\Debug\ExamenGestionCompte.Data.pdb
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\bin\Debug\ExamenGestionCompte.Domaine.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\bin\Debug\ExamenGestionCompte.Domaine.pdb
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\obj\Debug\ExamenGestionCompte.Data.Migrations.v1.resources
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ExamenGestionCompte.Data\obj\Debug\ExamenGestionCompte.Data.csproj.GenerateResource.Cache

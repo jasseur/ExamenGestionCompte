@@ -1,0 +1,14 @@
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\obj\Debug\ExamenGestionCompte.ServicePattern.csprojResolveAssemblyReference.cache
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\ServicePattern.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\ServicePattern.pdb
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\ExamenGestionCompte.Data.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\EntityFramework.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\ExamenGestionCompte.Data.pdb
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\EntityFramework.xml
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\obj\Debug\ServicePattern.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\obj\Debug\ServicePattern.pdb
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\ServicePattern.dll.config
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\EntityFramework.SqlServer.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\ExamenGestionCompte.Domaine.dll
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\ExamenGestionCompte.Domaine.pdb
+P:\Esprit 4BI\NET\Workspace Examen\ExamenGestionCompte\ServicePattern\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,55 @@
+﻿@model List<ExamenGestionCompte.Web.Models.ClientModel>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Nom
+        </th>
+        <th>
+            Prenom
+        </th>
+        <th>
+           DateNaissance
+        </th>
+        <th>
+           Rue
+        </th>
+        <th>
+            ZipCode
+        </th>
+        <th>
+            Salaire
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nom)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prenom)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateNaissance)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rue)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ZipCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Salaire)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CIN }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CIN }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CIN })
+        </td>
+    </tr>
+}
+
+</table>

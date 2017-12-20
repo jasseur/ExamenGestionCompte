@@ -5,6 +5,14 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenGestionCompte.Domaine", "ExamenGestionCompte.Domaine\ExamenGestionCompte.Domaine.csproj", "{2A9DFC70-CBB5-444D-AA8E-D0EC06A0A013}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenGestionCompte.Data", "ExamenGestionCompte.Data\ExamenGestionCompte.Data.csproj", "{874DC702-9F48-4621-8836-4572F81A4FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenGestionCompte.ServiceSpecifique", "ExamenGestionCompte.Service\ExamenGestionCompte.ServiceSpecifique.csproj", "{7386D7E7-D0CD-40CC-AEC2-35D60B47B274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenGestionCompte.ServicePattern", "ServicePattern\ExamenGestionCompte.ServicePattern.csproj", "{4B96BDC8-C8F5-450F-BE5A-3FFC7B9B60FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenGestionCompte.GestionCompteGUI2", "ExamenGestionCompte.GestionCompteGUI2\ExamenGestionCompte.GestionCompteGUI2.csproj", "{CC788C87-A676-40EA-9766-E70FB8040ED0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{2A9DFC70-CBB5-444D-AA8E-D0EC06A0A013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A9DFC70-CBB5-444D-AA8E-D0EC06A0A013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A9DFC70-CBB5-444D-AA8E-D0EC06A0A013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874DC702-9F48-4621-8836-4572F81A4FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874DC702-9F48-4621-8836-4572F81A4FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874DC702-9F48-4621-8836-4572F81A4FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874DC702-9F48-4621-8836-4572F81A4FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7386D7E7-D0CD-40CC-AEC2-35D60B47B274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7386D7E7-D0CD-40CC-AEC2-35D60B47B274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7386D7E7-D0CD-40CC-AEC2-35D60B47B274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7386D7E7-D0CD-40CC-AEC2-35D60B47B274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B96BDC8-C8F5-450F-BE5A-3FFC7B9B60FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B96BDC8-C8F5-450F-BE5A-3FFC7B9B60FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B96BDC8-C8F5-450F-BE5A-3FFC7B9B60FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B96BDC8-C8F5-450F-BE5A-3FFC7B9B60FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC788C87-A676-40EA-9766-E70FB8040ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC788C87-A676-40EA-9766-E70FB8040ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC788C87-A676-40EA-9766-E70FB8040ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC788C87-A676-40EA-9766-E70FB8040ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
