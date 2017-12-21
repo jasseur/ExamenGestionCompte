@@ -197,6 +197,7 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ClientController.cs" />
+    <Compile Include="Controllers\CompteController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Global.asax.cs">
@@ -275,6 +276,9 @@
     <Content Include="Views\Client\CreateClient.cshtml" />
     <Content Include="Views\Client\ListClients.cshtml" />
     <Content Include="Views\Client\Index.cshtml" />
+    <Content Include="Views\Compte\Create.cshtml" />
+    <Content Include="Views\Compte\Index.cshtml" />
+    <Content Include="Views\Compte\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

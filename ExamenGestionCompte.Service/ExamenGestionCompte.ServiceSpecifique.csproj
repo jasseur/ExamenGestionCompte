@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AgenceService.cs" />
     <Compile Include="ClientService.cs" />
     <Compile Include="CreditService.cs" />
     <Compile Include="CompteCourantService.cs" />

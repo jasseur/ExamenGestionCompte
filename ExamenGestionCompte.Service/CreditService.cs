@@ -35,7 +35,7 @@ namespace ExamenGestionCompte.Service
         public int ClientNumbers(Agence agence)
         {
             return GetMany(c => c.Comptes
-            .Any(cp => cp.Agence.Equals(agence)))
+            .Any(cp => cp.Agence.AgenceKey == agence.AgenceKey))
             .Count();
         }
 
